@@ -1,0 +1,24 @@
+.video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.vidfont {
+    font-size: 15px;
+    font-family:cursive;
+}
+.returnbutton {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.name {
+    font-weight: 400;
+}
+.headers {
+    font-weight: 600;
+}
+.list {
+    font-weight: 400;
+}
